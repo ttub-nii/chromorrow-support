@@ -11,7 +11,9 @@ Chromorrow is a private visual life-planning app for iPhone, iPad, and Mac.
 
 ### Where is my plan stored?
 
-Your plan is stored on your device and, when iCloud is available, synchronized through your private iCloud database. Chromorrow does not require a separate account.
+Your plan is stored on your device. Chromorrow Plus also synchronizes it through
+your private iCloud database when iCloud is available. Chromorrow does not
+require a separate account.
 
 ### How do I restore Chromorrow Plus?
 

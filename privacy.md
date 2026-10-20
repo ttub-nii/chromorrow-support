@@ -6,11 +6,19 @@ permalink: /privacy/
 
 # Chromorrow Privacy Policy
 
-Last updated: September 4, 2026
+Last updated: October 20, 2026
 
 Chromorrow is a private life-planning app. It requires no Chromorrow account and does not collect names, email addresses, birth dates, plan titles, notes, exact dates, or search text for analytics.
 
-Plans are stored on the device. When iCloud is available, Apple CloudKit stores and syncs plans in the private database of the signed-in Apple Account. Apple processes iCloud data under its terms and privacy policy. The Chromorrow developer cannot browse private CloudKit records.
+Plans are stored on the device. For Chromorrow Plus users, Apple CloudKit stores
+and syncs plans in the private database of the signed-in Apple Account when
+iCloud is available. Apple processes iCloud data under its terms and privacy
+policy. The Chromorrow developer cannot browse private CloudKit records.
+
+Preset favorites, recently used presets, and custom presets (including their
+titles and categories) are stored on your device and also saved to your Apple
+Account’s iCloud storage when available. This preset storage is available with
+or without Chromorrow Plus and is separate from plan synchronization.
 
 Notification permission is requested only for reminders. Photos add permission is requested only when saving an image to Photos. Device authentication is requested only when optional app lock is enabled. Chromorrow has no third-party advertising SDKs, does not track users, and does not sell personal data.
 

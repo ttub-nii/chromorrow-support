@@ -18,4 +18,4 @@ Small aggregate feature-use counters are stored only on the device. They contain
 
 Users can export a JSON backup, control what appears in a shared image, or delete all plan data in Settings. An iCloud deletion may take time to appear on an offline device.
 
-Questions and privacy requests: [chromorrow.app@gmail.com](mailto:chromorrow.app@gmail.com)
+Questions and privacy requests: [ostarangelo@naver.com](mailto:ostarangelo@naver.com)

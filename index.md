@@ -27,6 +27,6 @@ Open **Settings → Privacy & Data → Delete All My Data**. The deletion is als
 
 ## Contact
 
-For support or privacy questions, email [chromorrow.app@gmail.com](mailto:chromorrow.app@gmail.com).
+For support or privacy questions, email [ostarangelo@naver.com](mailto:ostarangelo@naver.com).
 
 [Read the Chromorrow Privacy Policy](privacy/)
